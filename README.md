@@ -13,11 +13,11 @@ Excluding programming, I am interested in 3d graphics, graphic design, video edi
 I also play occasional videogames, my favorite being my love of 12 years - Minecraft.
 
 ## Languages
-* C# - 7/10
-* C++ - 6/10
-* Python - 5/10
-* Javascript - 5/10
-* Java - 6/10
+* C# - 8/10
+* C++ - 7/10
+* Python - 7/10
+* Javascript - 6/10
+* Java - 7/10
 
 ## Portfolio
 Nothing here lol... I'm too lazy right now
