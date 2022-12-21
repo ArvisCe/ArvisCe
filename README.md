@@ -1,4 +1,4 @@
-#Arvis Ceirulis 
+# Arvis Ceirulis 
 ## Greetings
 Hello everyone!
 My name is Arvis and I am 20 years old.
@@ -14,8 +14,9 @@ I also play occasional videogames, my favorite being my love of 12 years - Minec
 
 ## Languages
 * C# - 8/10
-* C++ - 7/10
-* Python - 7/10
+* C++ - 8/10
+* Python - 9/10
+* Python Flask - 6/10
 * Javascript - 6/10
 * Java - 7/10
 
