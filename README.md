@@ -16,7 +16,7 @@ I also play occasional videogames, my favorite being my love of 12 years - Minec
 * C# - 8/10
 * C++ - 8/10
 * Python - 9/10
-* Python Flask - 6/10
+  * Python Flask - 6/10
 * Javascript - 6/10
 * Java - 7/10
 
