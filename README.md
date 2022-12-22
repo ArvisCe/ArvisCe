@@ -28,3 +28,6 @@ Nothing here lol... I'm too lazy right now
 ## other
 ### other
 #### other
+
+## random images of the best pokemon:
+![Drag Racing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png) ![Drag Racing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png) ![Drag Racing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png) ![Drag Racing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png)
