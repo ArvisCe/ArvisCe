@@ -22,7 +22,7 @@ I also play occasional videogames, my favorite being my love of 12 years - Minec
   * Python requests - 9/10
 * Javascript - 6/10
 * Java - 7/10
-
+* PHP Laravel - 1/10
 ## Portfolio
 Nothing here lol... I'm too lazy right now
 ## other
