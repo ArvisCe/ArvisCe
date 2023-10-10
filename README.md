@@ -10,19 +10,23 @@ to try and beat my old and bad habits.
 
 ## Interests
 Excluding programming, I am interested in 3d graphics, graphic design, video editing, video filming and films. 
-I also play occasional videogames, my favorite being my love of 12 years - Minecraft.
+I also play occasional videogames, my favorite being my love of 13 years - Minecraft.
 
 ## Languages
-* C# - 8/10
-* C++ - 8/10
-* Python - 9/10
-  * Python Flask - 8/10
-  * Python pygame - 8/10
-  * Python tkinter - 10/10
-  * Python requests - 9/10
-* Javascript - 6/10
-* Java - 7/10
-* PHP - 8/10
+* C#
+* C++ 
+* Python 
+* Javascript
+* Java
+* PHP
+
+## Frameworks and engines
+* Godot game engine ( with gdscript )
+* Python Flask
+* Python pygame
+* Laravel
+* Vue
+
 ## Portfolio
 Nothing here lol... I'm too lazy right now
 ## other
