@@ -22,10 +22,11 @@ I also play occasional videogames, my favorite being my love of 13 years - Minec
 
 ## Frameworks and engines
 * Godot game engine ( with gdscript )
-* Python Flask
-* Python pygame
 * Laravel
 * Vue
+* Nuxt
+* Python Flask
+* Python pygame
 
 ## Portfolio
 Nothing here lol... I'm too lazy right now
